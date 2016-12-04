@@ -17,7 +17,6 @@
 #include <string.h>
 #include <unistd.h>
 
-
 char dst_addr[20];
 char src_addr[20];
 
